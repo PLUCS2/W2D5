@@ -1,5 +1,6 @@
 require 'rspec'
 require 'p02_hashing'
+require 'byebug'
 
 describe "Hashing" do
   describe Array do
